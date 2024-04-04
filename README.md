@@ -9,3 +9,6 @@ Currently, two official plugins are available:
 
 
 ![weather](https://github.com/PriyaR211/Weather_App-ReactJS/assets/115357641/b2824d93-4f88-4c8a-a3cd-f360c3167dad)
+
+
+![invalid](https://github.com/PriyaR211/Weather_App-ReactJS/assets/115357641/24cf49fd-c19a-4d0e-b078-0566b5cceac0)
